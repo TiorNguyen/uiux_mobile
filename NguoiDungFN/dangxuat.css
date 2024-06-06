@@ -1,0 +1,165 @@
+.ng-xut-item {
+    width: 347px;
+    height: 215px;
+    position: relative;
+    border-radius: var(--br-8xl);
+    background-color: var(--color-white);
+    display: none;
+    max-width: 100%;
+  }
+  .ng-xut4 {
+    text-decoration: none;
+    flex: 1;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: inherit;
+    z-index: 1;
+    left: -15px
+  }
+  .ng-xut-container {
+    width: 291.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 66px;
+    box-sizing: border-box;
+  }
+  .bn-c-chc {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+    left: -10px;
+  }
+  .bn-c-chc-chn-mun-ng-xu-wrapper {
+    width: 288.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-5xl);
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .hy-child,
+  .hy1 {
+    position: relative;
+  }
+  .hy-child {
+    height: 36.4px;
+    width: 137.8px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-lightsteelblue-200);
+    display: none;
+  }
+  .hy1 {
+    flex: 1;
+    font-size: var(--font-size-xl);
+    line-height: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: var(--font-league-spartan);
+    color: var(--color-mediumslateblue);
+    text-align: center;
+    z-index: 1;
+  }
+  .hy,
+  .ng-xut-inner {
+    border-radius: var(--br-31xl);
+  }
+  .hy {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-2xs-7) var(--padding-7xl) var(--padding-3xs-7)
+      var(--padding-9xl);
+    background-color: var(--color-lightsteelblue-200);
+    flex: 0.8232;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 1;
+  }
+  .ng-xut-inner {
+    height: 36.4px;
+    width: 140.7px;
+    position: relative;
+    background-color: var(--color-mediumslateblue);
+    display: none;
+  }
+  .ng-xut6 {
+    text-decoration: none;
+    flex: 1;
+    position: relative;
+    font-size: var(--font-size-xl);
+    line-height: 16px;
+    font-weight: 500;
+    font-family: var(--font-league-spartan);
+    color: var(--color-white);
+    text-align: center;
+    z-index: 1;
+  }
+  .ng-xut5 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-2xs-7) var(--padding-lg) var(--padding-3xs-7);
+    background-color: var(--color-mediumslateblue);
+    flex: 1;
+    border-radius: var(--br-31xl);
+    flex-direction: row;
+    align-items: flex-start;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .hy-parent,
+  .ng-xut2,
+  .ng-xut3,
+  .ng-xut5 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .hy-parent {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--gap-4xl-2);
+  }
+  .ng-xut2,
+  .ng-xut3 {
+    background-color: var(--color-white);
+    box-sizing: border-box;
+  }
+  .ng-xut3 {
+    flex: 1;
+    border-radius: var(--br-8xl);
+    flex-direction: column;
+    padding: var(--padding-28xl) var(--padding-2xl) 55.6px;
+    gap: var(--gap-lgi);
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-mediumslateblue);
+    font-family: var(--font-league-spartan);
+    
+  }
+  .ng-xut2 {
+    width: 361px;
+    position: relative;
+    border-radius: var(--br-11xl);
+    overflow: hidden;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 0 0;
+    line-height: normal;
+    letter-spacing: normal;
+    max-width: 90%;
+    max-height: 90%;
+    margin: auto;
+    opacity: 1;
+  }
+  
+  .hide {
+    display: none;
+  }
